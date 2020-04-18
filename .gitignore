@@ -6,5 +6,5 @@
 *.zip
 __pycache__/
 *.swp
-mm_env/
+core/
 .log
