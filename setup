@@ -7,12 +7,12 @@ if [ -z $LAWPATH ]; then
 fi
 echo "-> Using LAWPATH=$LAWPATH"
 cd $LAWPATH/env
-if [ ! -d "env" ]; then
-    python -m venv env 
+if [ ! -d "core" ]; then
+    python -m venv core 
 fi
-source env/bin/activate
+source core/bin/activate
 pip install -r deps.txt
-cd src
+cd $LAWPATH/src
 pip install .
 cd ..
 deactivate
