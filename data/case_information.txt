@@ -1,0 +1,367 @@
+name,number
+Abbott v. Abbott,cases/2009/08-645
+Alabama v. North Carolina,cases/2009/132 ORIG
+Alvarez v. Smith,cases/2009/08-351
+American Needle Inc. v. National Football League,cases/2009/08-661
+Astrue v. Ratliff,cases/2009/08-1322
+Barber v. Thomas,cases/2009/09-5201
+Beard v. Kindler,cases/2009/08-992
+Berghuis v. Smith,cases/2009/08-1402
+Berghuis v. Thompkins,cases/2009/08-1470
+Bilski v. Kappos,cases/2009/08-964
+Black v. United States,cases/2009/08-876
+Bloate v. United States,cases/2009/08-728
+Bobby v. Van Hook,cases/2009/09-144
+Briscoe v. Virginia,cases/2009/07-11191
+Carachuri-Rosendo v. Holder,cases/2009/09-60
+Carr v. United States,cases/2009/08-1301
+Christian Legal Society Chapter v. Martinez,cases/2009/08-1371
+City of Ontario v. Quon,cases/2009/08-1332
+Conkright v. Frommert,cases/2009/08-810
+Dillon v. United States,cases/2009/09-6338
+Doe #1 v. Reed,cases/2009/09-559
+Dolan v. United States,cases/2009/09-367
+Florida v. Powell,cases/2009/08-1175
+Free Enterprise Fund v. Public Company Oversight Board,cases/2009/08-861
+Graham County Soil and Water Conservation District v. United States,cases/2009/08-304
+Graham v. Florida,cases/2009/08-7412
+Granite Rock Co. v. International Brotherhood of Teamsters,cases/2009/08-1214
+Hamilton v. Lanning,cases/2009/08-998
+Hardt v. Reliance Standard Life Ins. Co.,cases/2009/09-448
+Health Care Service Corp. v. Pollitt,cases/2009/09-38
+Hemi Group LLC v. City of New York,cases/2009/08-969
+Hertz Corp. v. Friend,cases/2009/08-1107
+Holder v. Humanitarian Law Project,cases/2009/08-1498
+Holland v. Florida,cases/2009/09-5327
+Hui v. Castaneda,cases/2009/08-1529
+Jefferson v. Upton,cases/2009/09-8852
+"Jerman v. Carlisle, McNellie, Rini, Kramer, & Ulrich LPA",cases/2009/08-1200
+Johnson v. United States,cases/2009/08-6925
+Jones v. Harris Associates L.P.,cases/2009/08-586
+Kawasaki Kisen Kaisha Ltd. v. Regal-Beloit Corp.,cases/2009/08-1553
+Kiyemba v. Obama,cases/2009/08-1234
+"Krupski v. Costa Crociere, S.p.A.",cases/2009/09-337
+Kucana v. Holder,cases/2009/08-911
+"Levin v. Commerce Energy, Inc.",cases/2009/09-223
+Lewis v. Chicago,cases/2009/08-974
+Mac's Shell Service v. Shell Oil Products Co.,cases/2009/08-240
+Magwood v. Patterson,cases/2009/09-158
+Maryland v. Shatzer,cases/2009/08-680
+McDaniel v. Brown,cases/2009/08-559
+McDonald v. Chicago,cases/2009/08-1521
+Merck & Co. v. Reynolds,cases/2009/08-905
+Michigan v. Fisher,cases/2009/09-91
+"Milavetz, Gallop & Milavetz, P.A. v. United States",cases/2009/08-1119
+"Mohawk Industries, Inc. v. Carpenter",cases/2009/08-678
+Monsanto Co. v. Geertson Seed Farms,cases/2009/09-475
+Morrison v. National Australia Bank,cases/2009/08-1191
+New Process Steel v. NLRB,cases/2009/08-1457
+"NRG Power Marketing, LLC v. Maine Pub. Util. Comm'n",cases/2009/08-674
+Padilla v. Kentucky,cases/2009/08-651
+Perdue v. Kenny A.,cases/2009/08-970
+Porter v. McCollum,cases/2009/08-10537
+Pottawattamie County v. McGhee,cases/2009/08-1065
+Reed Elsevier v. Muchnick,cases/2009/08-103
+Renico v. Lett,cases/2009/09-338
+"Rent-A-Center West, Inc. v. Jackson",cases/2009/09-497
+Robertson v. United States ex rel. Watson,cases/2009/08-6261
+Salazar v. Buono,cases/2009/08-472
+Samantar v. Yousuf,cases/2009/08-1555
+Schwab v. Reilly,cases/2009/08-538
+"Shady Grove Orthopedic Associates, P.A. v. Allstate Insurance Co.",cases/2009/08-1008
+Skilling v. United States,cases/2009/08-1394
+Smith v. Spisak,cases/2009/08-724
+South Carolina v. North Carolina,cases/2009/138 ORIG
+Stolt-Nielsen v. Animalfeeds International Corp.,cases/2009/08-1198
+Stop the Beach Renourishment Inc. v. Florida Department of Environmental Protection,cases/2009/08-1151
+Sullivan v. Florida,cases/2009/08-7621
+Thaler v. Haynes,cases/2009/09-273
+Union Pacific R. Co. v. Locomotive Engineers,cases/2009/08-604
+United States v. Comstock,cases/2009/08-1224
+United States v. Marcus,cases/2009/08-1341
+United States v. O'Brien,cases/2009/08-1569
+United States v. Stevens,cases/2009/08-769
+United Student Aid Funds Inc. v. Espinosa,cases/2009/08-1134
+Weyhrauch v. United States,cases/2009/08-1196
+Wilkins v. Gaddy,cases/2009/08-10914
+Wong v. Belmontes,cases/2009/08-1263
+Wood v. Allen,cases/2009/08-9156
+Abbott v. United States,cases/2010/09-479
+"American Electric Power Co., Inc. v. Connecticut",cases/2010/10-174
+Arizona Christian School Tuition Organization v. Winn,cases/2010/09-987
+Arizona Free Enterprise Club's Freedom Club PAC v. Bennett,cases/2010/10-238
+Ashcroft v. Al-Kidd,cases/2010/10-98
+Astra USA v. Santa Clara County,cases/2010/09-1273
+AT&T Mobility LLC v. Concepcion,cases/2010/09-893
+"Board of Trustees of the Leland Stanford Junior University v. Roche Molecular Systems, Inc.",cases/2010/09-1159
+Bobby v. Mitts,cases/2010/10-1000
+Bond v. United States,cases/2010/09-1227
+Borough of Duryea v. Guarnieri,cases/2010/09-1476
+Brown v. Entertainment Merchants Association,cases/2010/08-1448
+Brown v. Plata,cases/2010/09-1233
+Bruesewitz v. Wyeth Inc.,cases/2010/09-152
+Bullcoming v. New Mexico,cases/2010/09-10876
+Camreta v. Greene,cases/2010/09-1454
+Chamber of Commerce of the United States v. Whiting,cases/2010/09-115
+Chase Bank USA v. McCoy,cases/2010/09-329
+CIGNA v. Amara,cases/2010/09-804
+Connick v. Thompson,cases/2010/09-571
+"Costco Wholesale Corporation v. Omega, S.A.",cases/2010/08-1423
+CSX Transportation v. McBride,cases/2010/10-235
+"CSX Transportation, Inc. v. Alabama Department of Revenue",cases/2010/09-520
+Cullen v. Pinholster,cases/2010/09-1088
+Davis v. United States,cases/2010/09-11328
+DePierre v. United States,cases/2010/09-1533
+"Erica P. John Fund, Inc. v. Halliburton Co.",cases/2010/09-1403
+FCC v. AT&T Inc.,cases/2010/09-1279
+Flores-Villar v. United States,cases/2010/09-5801
+Fowler v. United States,cases/2010/10-5443
+Fox v. Vice,cases/2010/10-114
+Freeman v. United States,cases/2010/09-10245
+General Dynamics Corp. v. United States,cases/2010/09-1298
+"Global-Tech Appliances, Inc. v. SEB S.A.",cases/2010/10-6
+"Goodyear Dunlop Tires Operations, S.A. v. Brown",cases/2010/10-76
+Harrington v. Richter,cases/2010/09-587
+Henderson v. Shinseki,cases/2010/09-1036
+"J. McIntyre Machinery, Ltd. v. Nicastro",cases/2010/09-1343
+J.D.B. v. North Carolina,cases/2010/09-11121
+"Janus Capital Group, Inc. v. First Derivative Traders",cases/2010/09-525
+Kasten v. Saint-Gobain Performance Plastics Corp.,cases/2010/09-834
+Kentucky v. King,cases/2010/09-1272
+"Los Angeles County, CA v. Humphries",cases/2010/09-350
+Madison County v. Oneida Indian Nation,cases/2010/10-72
+"Matrixx Initiatives, Inc. v. Siracusano",cases/2010/09-1156
+Mayo Foundation v. United States,cases/2010/09-837
+McNeill v. United States,cases/2010/10-5258
+Michigan v. Bryant,cases/2010/09-150
+Microsoft Corp. v. i4i Limited Partnership,cases/2010/10-290
+Milner v. Department of the Navy,cases/2010/09-1163
+Montana v. Wyoming and North Dakota,cases/2010/137 ORIG
+National Aeronautics and Space Administration v. Nelson,cases/2010/09-530
+Nevada Commission on Ethics v. Carrigan,cases/2010/10-568
+Ortiz v. Jordan,cases/2010/09-737
+Pepper v. United States,cases/2010/09-6822
+"PLIVA, Inc. v. Mensing",cases/2010/09-993
+Premo v. Moore,cases/2010/09-658
+"Ransom v. FIA Card Services, N.A.",cases/2010/09-907
+Schindler Elevator Corp. v. United States ex rel. Kirk,cases/2010/10-188
+Skinner v. Switzer,cases/2010/09-9000
+Smith v. Bayer Corp.,cases/2010/09-1205
+Snyder v. Phelps,cases/2010/09-751
+Sorrell v. IMS Health Inc.,cases/2010/10-779
+Sossamon v. Texas,cases/2010/08-1438
+Staub v. Proctor Hospital,cases/2010/09-400
+Stern v. Marshall,cases/2010/10-179
+"Stok & Associates, P.A. v. Citibank, N.A.",cases/2010/10-514
+Sykes v. United States,cases/2010/09-11311
+"Talk America, Inc. v. Michigan Bell Telephone Co.",cases/2010/10-313
+Tapia v. United States,cases/2010/10-5400
+"Thompson v. North American Stainless, LP",cases/2010/09-291
+Tolentino v. New York,cases/2010/09-11556
+Turner v. Rogers,cases/2010/10-10
+United States  v. Tinklenberg,cases/2010/09-1498
+United States v. Jicarilla Apache Nation,cases/2010/10-382
+United States v. Juvenile Male,cases/2010/09-940
+United States v. Tohono O'odham Nation,cases/2010/09-846
+Virginia Office for Protection and Advocacy v. Stewart,cases/2010/09-529
+"Wal-Mart Stores, Inc. v. Dukes",cases/2010/10-277
+Walker v. Martin,cases/2010/09-996
+Wall v. Kholi,cases/2010/09-868
+"Williamson v. Mazda Motor of America, Inc.",cases/2010/08-1314
+"American Tradition Partnership, Inc. v. Bullock",cases/2011/11-1179
+Arizona v. United States,cases/2011/11-182
+Armour v. City of Indianapolis,cases/2011/11-161
+Astrue v. Capato,cases/2011/11-159
+Blueford v. Arkansas,cases/2011/10-1320
+Bobby v. Dixon,cases/2011/10-1540
+"Caraco Pharmaceutical Laboratories, Ltd. v. Novo Nordisk A/S",cases/2011/10-844
+Cavazos v. Smith,cases/2011/10-1115
+Christopher v. SmithKline,cases/2011/11-204
+Coleman v. Johnson,cases/2011/11-1053
+Coleman v. Maryland Court of Appeals,cases/2011/10-1016
+CompuCredit Corp. v. Greenwood,cases/2011/10-948
+Credit Suisse Securities LLC v. Simmonds,cases/2011/10-1261
+Dorsey v. United States,cases/2011/11-5683
+Douglas v. Independent Living Center of Southern California,cases/2011/09-958
+Elgin v. Department of the Treasury,cases/2011/11-45
+FAA v. Cooper,cases/2011/10-1024
+FCC v. Fox Television Stations,cases/2011/10-1293
+Filarsky v. Delia,cases/2011/10-1018
+First American Financial Corp. v. Edwards,cases/2011/10-708
+Florence v. Board of Chosen Freeholders of the County of Burlington,cases/2011/10-945
+"Freeman v. Quicken Loans, Inc.",cases/2011/10-1042
+Golan v. Holder,cases/2011/10-545
+Gonzalez v. Thaler,cases/2011/10-895
+Greene v. Fisher,cases/2011/10-637
+Hall v. United States,cases/2011/10-875
+Hardy v. Cross,cases/2011/11-74
+Holder v. Gutierrez,cases/2011/10-1542
+Hosanna-Tabor Evangelical Lutheran Church and School v. EEOC,cases/2011/10-553
+Howes v. Fields,cases/2011/10-680
+Judulang v. Holder,cases/2011/10-694
+Kappos v. Hyatt,cases/2011/10-1219
+Kawashima v. Holder,cases/2011/10-577
+Kiobel v. Royal Dutch Petroleum,cases/2011/10-1491
+Knox v. Service Employees International Union,cases/2011/10-1121
+KPMG LLP v. Cocchi,cases/2011/10-1521
+Kurns v. Railroad Friction Products Corp.,cases/2011/10-879
+Lafler v. Cooper,cases/2011/10-209
+Magner v. Gallagher,cases/2011/10-1032
+Maples v. Thomas,cases/2011/10-63
+Marmet Health Care Center v. Brown,cases/2011/11-391
+Martel v. Clair,cases/2011/10-1265
+Martinez v. Ryan,cases/2011/10-1001
+Match-E-Be-Nash-She-Wish Band v. Patchak,cases/2011/11-246
+"Mayo Collaborative Services v. Prometheus Laboratories, Inc.",cases/2011/10-1150
+Messerschmidt v. Millender,cases/2011/10-704
+Miller v. Alabama,cases/2011/10-9646
+"Mims v. Arrow Financial Services, LLC",cases/2011/10-1195
+Minneci v. Pollard,cases/2011/10-1104
+Missouri v. Frye,cases/2011/10-444
+Mohamad v. Palestinian Authority,cases/2011/11-88
+National Federation of Independent Businesses v. Sebelius,cases/2011/11-393
+National Meat Association v. Harris,cases/2011/10-224
+Pacific Operators Offshore v. Valladolid,cases/2011/10-507
+Parker v. Matthews,cases/2011/11-845
+Perry v. New Hampshire,cases/2011/10-8974
+Perry v. Perez,cases/2011/11-713
+PPL Montana v. Montana,cases/2011/10-218
+RadLAX Gateway Hotel v. Amalgamated Bank,cases/2011/11-166
+Rehberg v. Paulk,cases/2011/10-788
+Reichle v. Howards,cases/2011/11-262
+Reynolds v. United States,cases/2011/10-6549
+Roberts v. Sea-Land Services,cases/2011/10-1399
+Ryburn v. Huff,cases/2011/11-208
+Sackett v. EPA,cases/2011/10-1062
+Salazar v. Ramah Navajo Chapter,cases/2011/11-551
+Setser v. United States,cases/2011/10-7387
+Smith v. Cain,cases/2011/10-8145
+Southern Union Company v. United States,cases/2011/11-94
+Taniguchi v. Kan Pacific Saipan,cases/2011/10-1472
+Tennant v. Jefferson County Commission,cases/2011/11-1184
+United States v. Alvarez,cases/2011/11-210
+United States v. Home Concrete & Supply,cases/2011/11-139
+United States v. Jones,cases/2011/10-1259
+Vartelas v. Holder,cases/2011/10-1211
+Vasquez v. United States,cases/2011/11-199
+Wetzel v. Lambert,cases/2011/11-38
+Williams v. Illinois,cases/2011/10-8505
+Wood v. Milyard,cases/2011/10-9995
+Zivotofsky v. Clinton,cases/2011/10-699
+Adoptive Couple v. Baby Girl,cases/2012/12-399
+Agency for International Development v. Alliance for Open Society International,cases/2012/12-10
+Alleyne v. United States,cases/2012/11-9335
+Already LLC v. Nike,cases/2012/11-982
+"American Express Co., et al. v. Italian Colors Restaurant",cases/2012/12-133
+American Trucking Associations v. City of Los Angeles,cases/2012/11-798
+Amgen Inc. v. Connecticut Retirement Plans and Trust Funds,cases/2012/11-1085
+Arizona v. Inter Tribal Council of Arizona,cases/2012/12-71
+Arkansas Game & Fish Commission v. United States of America,cases/2012/11-597
+Association for Molecular Pathology v. Myriad Genetics,cases/2012/12-398
+Bailey v. United States,cases/2012/11-770
+Bowman v. Monsanto,cases/2012/11-796
+Boyer v. Louisiana,cases/2012/11-9953
+Bullock v. BankChampaign,cases/2012/11-1518
+Chafin v. Chafin,cases/2012/11-1347
+Chaidez v. United States,cases/2012/11-820
+"City of Arlington, TX v. FCC",cases/2012/11-1545
+Clapper v. Amnesty International USA,cases/2012/11-1025
+Comcast v. Behrend,cases/2012/11-864
+Dan's City Used Cars v. Pelkey,cases/2012/12-52
+Decker v. Northwest Environmental Defense Center,cases/2012/11-338
+Descamps v. United States,cases/2012/11-9540
+Evans v. Michigan,cases/2012/11-1327
+Fisher v. University of Texas,cases/2012/11-345
+Florida v. Harris,cases/2012/11-817
+Florida v. Jardines,cases/2012/11-564
+FTC v. Actavis Inc.,cases/2012/12-416
+FTC v. Phoebe Putney Health System,cases/2012/11-1160
+Gabelli v. Securities and Exchange Commission,cases/2012/11-1274
+Genesis Healthcare v. Symczyk,cases/2012/11-1059
+Gunn v. Minton,cases/2012/11-1118
+Henderson v. United States,cases/2012/11-9307
+Hillman v. Maretta,cases/2012/11-1221
+Hollingsworth v. Perry,cases/2012/12-144
+Horne v. Department of Agriculture,cases/2012/12-123
+Johnson v. Williams,cases/2012/11-465
+"Kirtsaeng v. John Wiley & Sons, Inc.",cases/2012/11-697
+Kloeckner v Solis,cases/2012/11-184
+Koontz v. St. John's River Water Management,cases/2012/11-1447
+Lefemine v. Wideman,cases/2012/12-168
+Levin v. United States,cases/2012/11-1351
+"Los Angeles County Flood Control District v. Natural Resources Defense Council, Inc.",cases/2012/11-460
+Lozman v. Riviera Beach,cases/2012/11-626
+Maracich v. Spears,cases/2012/12-25
+Marshall v. Rodgers,cases/2012/12-382
+Marx v. General Revenue Corporation,cases/2012/11-1175
+Maryland v. King,cases/2012/12-207
+McBurney v. Young,cases/2012/12-17
+McQuiggin v. Perkins,cases/2012/12-126
+Metrish v. Lancaster,cases/2012/12-547
+Millbrook v. United States,cases/2012/11-10362
+Missouri v. McNeely,cases/2012/11-1425
+Moncrieffe v. Holder,cases/2012/11-702
+Mutual Pharmaceutical Co. v. Bartlett,cases/2012/12-142
+Nevada v. Jackson,cases/2012/12-694
+"Nitro-Lift Technologies, LLC v. Howard",cases/2012/11-1377
+Oxford Health Plans v. Sutter,cases/2012/12-135
+Peugh v. United States,cases/2012/12-62
+PPL Corporation v. Commissioner of Internal Revenue,cases/2012/12-43
+Ryan v. Gonzales,cases/2012/10-930
+Ryan v. Schad,cases/2012/12-1084
+Salinas v. Texas,cases/2012/12-246
+Sebelius v. Auburn Regional Medical Center,cases/2012/11-1231
+Sebelius v. Cloer,cases/2012/12-236
+Sekhar v. United States,cases/2012/12-357
+Shelby County v. Holder,cases/2012/12-96
+Smith v. United States,cases/2012/11-8976
+Standard Fire Insurance Company v. Knowles,cases/2012/11-1450
+Tarrant Regional Water District v. Herrmann,cases/2012/11-889
+Trevino v. Thaler,cases/2012/11-10189
+UBS Financial Services v. Union de Empleados de Muelles,cases/2012/12-1208
+United States Forest Service v. Pacific Rivers Council,cases/2012/12-623
+United States v. Bormes,cases/2012/11-192
+United States v. Davila,cases/2012/12-167
+United States v. Kebodeaux,cases/2012/12-418
+United States v. Windsor,cases/2012/12-307
+University of Texas Southwestern Medical Center v. Nassar,cases/2012/12-484
+US Airways v. McCutchen,cases/2012/11-1285
+Vance v. Ball State University,cases/2012/11-556
+Wos v. E.M.A. et al.,cases/2012/12-98
+"ABC, Inc. v. Aereo, Inc.",cases/2013/13-461
+Abramski v. United States,cases/2013/12-1493
+Air Wisconsin Airlines Corp. v. Hoeper,cases/2013/12-315
+Alice Corporation v. CLS Bank International,cases/2013/13-298
+"Argentina v. NML Capital, Ltd.",cases/2013/12-842
+Atlantic Marine Construction Company v. U.S. District Court for the Western District of Texas,cases/2013/12-929
+BG Group PLC v. Argentina,cases/2013/12-138
+Bond v. United States,cases/2013/12-158
+Brandt Revocable Trust v. United States,cases/2013/12-1173
+Burrage v. United States,cases/2013/12-7515
+Burt v. Titlow,cases/2013/12-414
+Burwell v. Hobby Lobby Stores,cases/2013/13-354
+Chadbourne and Parke LLP v. Troice,cases/2013/12-79
+Clark v. Rameker,cases/2013/13-299
+Cline v. Oklahoma Coalition for Reproductive Justice,cases/2013/12-1094
+CTS Corp. v. Waldburger,cases/2013/13-339
+DaimlerChrysler AG v. Bauman,cases/2013/11-965
+Environmental Protection Agency v. EME Homer City Generation,cases/2013/12-1182
+Executive Benefits Insurance Agency v. Arkison,cases/2013/12-1200
+Fernandez v. California,cases/2013/12-7822
+Fifth Third Bancorp v. Dudenhoeffer,cases/2013/12-751
+Ford Motor Company v. United States,cases/2013/13-113
+Hall v. Florida,cases/2013/12-10882
+"Halliburton Co. v. Erica P. John Fund, Inc.",cases/2013/13-317
+Harris v. Quinn,cases/2013/11-681
+Heimeshoff v. Hartford Life & Accident Insurance Co.,cases/2013/12-729
+Highmark v. Allcare Management Systems,cases/2013/12-1163
+Hinton v. Alabama,cases/2013/13-6440
+Kaley v. United States,cases/2013/12-464
+Kansas v. Cheever,cases/2013/12-609
+Lane v. Franks,cases/2013/13-483
+Law v. Siegel,cases/2013/12-5196
+"Lawson and Zang v. FMR, LLC",cases/2013/12-3
+Lexmark International v. Static Control Components,cases/2013/12-873
+Limelight Networks v. Akamai Technologies,cases/2013/12-786
+Loughrin v. United States,cases/2013/13-316
+Lozano v. Montoya Alvarez,cases/2013/12-820
