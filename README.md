@@ -12,4 +12,6 @@ We will breakup the construction of this project into separate tasks/modules, as
 4) Have a user ask about where certain topics can be found within a case
 	- Return text/audio regarding section
 
-We imagine a tool like this can have many practical uses, outside of just court cases. The idea of our product is to digest many audio/text files in order to make a massive amount of data easily searchable and usable. 
+We imagine a tool like this can have many practical uses, outside of just court cases. The idea of our product is to digest many audio/text files in order to make a massive amount of data easily searchable and usable.
+
+For our initial work, we will stick to text-based solutions. We will create a solution that takes in embeddings, and outputs the relevant results. By using an embedding based approach, we should be able to make the solution dynamic between using word embeddings and audio embeddings. However, this is conjecture as we are not familiar with audio-data in a Data Science solution.
