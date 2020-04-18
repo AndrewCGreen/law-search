@@ -1,3 +1,4 @@
 mkdir ./csv_format
-cp ./txt_format/transcripts.txt ./csv_format/transcripts.csv
-cp ./txt_format/case_information.txt ./csv_format/case_information.csv
+cp -r ./txt_format/* ./csv_format
+
+for file in ./csv_format/*.txt; do mv "$file" "${file%.txt}.csv"; done
