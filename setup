@@ -1,0 +1,19 @@
+#!/bin/bash
+set -e
+if [ -z $LAWPATH ]; then
+    echo "The LAWPATH environment variable must be set for the environment script to work."
+    echo "Please set 'export MMPATH=<path to march-madness repo>' before continuing"
+    exit 1
+fi
+echo "-> Using LAWPATH=$LAWPATH"
+cd $LAWPATH/env
+if [ ! -d "env" ]; then
+    python -m venv env 
+fi
+source env/bin/activate
+pip install -r deps.txt
+cd src
+pip install .
+cd ..
+deactivate
+echo "-> Done"
