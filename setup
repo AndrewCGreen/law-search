@@ -10,7 +10,7 @@ cd $LAWPATH/env
 if [ ! -d "core" ]; then
     python -m venv core 
 fi
-source core/bin/activate
+source $LAWPATH/env/core/bin/activate
 pip install -r deps.txt
 cd $LAWPATH/src
 pip install .
