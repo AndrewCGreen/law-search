@@ -2,7 +2,7 @@
 set -e
 if [ -z $LAWPATH ]; then
     echo "The LAWPATH environment variable must be set for the environment script to work."
-    echo "Please set 'export MMPATH=<path to march-madness repo>' before continuing"
+    echo "Please set 'export LAWPATH=<path to law-search repo>' before continuing"
     exit 1
 fi
 echo "-> Using LAWPATH=$LAWPATH"
