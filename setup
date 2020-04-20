@@ -8,12 +8,12 @@ fi
 echo "-> Using LAWPATH=$LAWPATH"
 cd $LAWPATH/env
 if [ ! -d "core" ]; then
-    python -m venv core 
+    python3 -m venv core 
 fi
 source core/bin/activate
-pip install -r deps.txt
+pip3 install -r deps.txt
 cd $LAWPATH/src
-pip install .
+pip3 install .
 cd ..
 deactivate
 echo "-> Done"
